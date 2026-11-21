@@ -15,7 +15,7 @@
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="45"/>
-        <source>fiat santa draws the family's Secret Santa: who gives a present to whom, with the pairs who must not draw each other kept apart both ways. Where it can, the draw makes one ring through everyone, so nobody draws the person who drew them. Then everyone looks in turn on this phone, or gets a message with a code of their own to open elsewhere.</source>
+        <source>fiat santa draws the family&apos;s Secret Santa: who gives a present to whom, with the pairs who must not draw each other kept apart both ways. Where it can, the draw makes one ring through everyone, so nobody draws the person who drew them. Then everyone looks in turn on this phone, or gets a message with a code of their own to open elsewhere.</source>
         <translation>fiat santa lost das Wichteln der Familie aus: wer wem ein Geschenk macht, und Paare, die sich nicht ziehen sollen, bleiben in beide Richtungen getrennt. Wo es geht, bildet die Auslosung einen einzigen Kreis durch alle, sodass niemand die Person zieht, die einen selbst gezogen hat. Danach schaut jeder reihum auf diesem Telefon nach oder bekommt eine Nachricht mit einem eigenen Code, den er woanders öffnet.</translation>
     </message>
     <message>
@@ -45,7 +45,7 @@
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="126"/>
-        <source>The names, the pairs, the price limit and the draw are kept on the phone, in the app's own storage, until you draw again. Nothing leaves the phone except the messages you send yourself.</source>
+        <source>The names, the pairs, the price limit and the draw are kept on the phone, in the app&apos;s own storage, until you draw again. Nothing leaves the phone except the messages you send yourself.</source>
         <translation>Die Namen, die Paare, die Preisgrenze und die Auslosung bleiben auf dem Telefon, im eigenen Speicher der App, bis du neu auslost. Nichts verlässt das Telefon außer den Nachrichten, die du selbst verschickst.</translation>
     </message>
     <message>
@@ -236,7 +236,7 @@
     </message>
     <message>
         <location filename="../qml/pages/CodesPage.qml" line="116"/>
-        <source>The codes are hidden from the eye, not encrypted. Anyone who really wants to can read someone else's, so send each one only to its person.</source>
+        <source>The codes are hidden from the eye, not encrypted. Anyone who really wants to can read someone else&apos;s, so send each one only to its person.</source>
         <translation>Die Codes sind vor dem Auge verborgen, nicht verschlüsselt. Wer es wirklich will, kann den eines anderen lesen, also schicke jeden nur an seine Person.</translation>
     </message>
 </context>
@@ -255,6 +255,7 @@
     <message>
         <location filename="../qml/cover/CoverPage.qml" line="55"/>
         <source>drawn · %1 looked</source>
+        <extracomment>Cover: &quot;drawn · 3 looked&quot;</extracomment>
         <translation>ausgelost · %1 haben nachgesehen</translation>
     </message>
     <message>
@@ -281,6 +282,7 @@
     <message>
         <location filename="../qml/pages/MainPage.qml" line="28"/>
         <source>%1 and %2</source>
+        <extracomment>Two people who must not draw each other: &quot;Anna and Erik&quot;</extracomment>
         <translation>%1 und %2</translation>
     </message>
     <message>
@@ -335,7 +337,9 @@
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="154"/>
+        <location filename="../qml/pages/MainPage.qml" line="196"/>
         <source>remove %1</source>
+        <extracomment>%1 is a name, or a pair such as &quot;Anna and Erik&quot;</extracomment>
         <translation>%1 entfernen</translation>
     </message>
     <message>
@@ -495,6 +499,7 @@
     <message>
         <location filename="../qml/pages/RevealPage.qml" line="72"/>
         <source>Are you %1?</source>
+        <extracomment>%1 is the name the person tapped</extracomment>
         <translation>Bist du %1?</translation>
     </message>
     <message>
@@ -515,6 +520,7 @@
     <message>
         <location filename="../qml/pages/RevealPage.qml" line="131"/>
         <source>%1, you give a present to</source>
+        <extracomment>Above the name on the card. %1 is the giver.</extracomment>
         <translation>%1, du beschenkst</translation>
     </message>
     <message>
@@ -543,11 +549,13 @@
     <message>
         <location filename="../qml/Santa.qml" line="96"/>
         <source>%1 is already there. Add a surname or an initial.</source>
+        <extracomment>%1 is a name already on the list</extracomment>
         <translation>%1 ist schon dabei. Ergänze einen Nachnamen oder eine Initiale.</translation>
     </message>
     <message>
         <location filename="../qml/Santa.qml" line="169"/>
-        <source>Hi %1! You are in the family's Secret Santa.</source>
+        <source>Hi %1! You are in the family&apos;s Secret Santa.</source>
+        <extracomment>The first line of the message sent to each person. %1 is their name.</extracomment>
         <translation>Hallo %1! Du bist beim Familienwichteln dabei.</translation>
     </message>
     <message>

@@ -11,3 +11,4 @@ moc_*.h
 qrc_*.cpp
 /harbour-fiatsanta
 __pycache__/
+*.qm

@@ -45,7 +45,7 @@
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="126"/>
-        <source>The names, the pairs, the price limit and the draw are kept on the phone, in the app&apos;s own storage, until you draw again. Nothing leaves the phone except the messages you copy and send yourself.</source>
+        <source>The names, the pairs, the price limit and the draw are kept on the phone, in the app&apos;s own storage, until you draw again. Nothing leaves the phone except the messages you send yourself.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -206,32 +206,36 @@
     </message>
     <message>
         <location filename="../qml/pages/CodesPage.qml" line="39"/>
-        <source>One message each. Copy it and send it to that person only.</source>
+        <source>One message each, to that person only.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/pages/CodesPage.qml" line="46"/>
-        <location filename="../qml/pages/CodesPage.qml" line="47"/>
-        <source>Link to the web version, if any</source>
+        <source>sms and email open Messages or Email with the text filled in. Pick who it goes to there.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/CodesPage.qml" line="58"/>
-        <source>Without a link, the message asks them to open their code in fiat santa. With one, it goes along in every message, for those who open theirs in a browser.</source>
+        <location filename="../qml/pages/CodesPage.qml" line="93"/>
+        <source>sms</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/CodesPage.qml" line="94"/>
+        <location filename="../qml/pages/CodesPage.qml" line="97"/>
+        <source>email</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/CodesPage.qml" line="101"/>
         <source>copied</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/CodesPage.qml" line="94"/>
+        <location filename="../qml/pages/CodesPage.qml" line="101"/>
         <source>copy</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/CodesPage.qml" line="130"/>
+        <location filename="../qml/pages/CodesPage.qml" line="116"/>
         <source>The codes are hidden from the eye, not encrypted. Anyone who really wants to can read someone else&apos;s, so send each one only to its person.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -276,169 +280,170 @@
 <context>
     <name>MainPage</name>
     <message>
-        <location filename="../qml/pages/MainPage.qml" line="36"/>
+        <location filename="../qml/pages/MainPage.qml" line="41"/>
         <source>These pairs leave no possible draw. Remove a pair and try again.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/MainPage.qml" line="53"/>
+        <location filename="../qml/pages/MainPage.qml" line="58"/>
         <source>About</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/MainPage.qml" line="58"/>
+        <location filename="../qml/pages/MainPage.qml" line="63"/>
         <source>Fiat colours</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/MainPage.qml" line="58"/>
+        <location filename="../qml/pages/MainPage.qml" line="63"/>
         <source>Follow ambience</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/MainPage.qml" line="63"/>
+        <location filename="../qml/pages/MainPage.qml" line="68"/>
         <source>I have a code</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/MainPage.qml" line="69"/>
+        <location filename="../qml/pages/MainPage.qml" line="74"/>
         <source>Change names and draw again</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/MainPage.qml" line="71"/>
+        <location filename="../qml/pages/MainPage.qml" line="76"/>
         <source>Clearing the draw</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/MainPage.qml" line="104"/>
+        <location filename="../qml/pages/MainPage.qml" line="109"/>
         <source>Taking part</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/MainPage.qml" line="109"/>
+        <location filename="../qml/pages/MainPage.qml" line="114"/>
         <source>Name</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/MainPage.qml" line="110"/>
+        <location filename="../qml/pages/MainPage.qml" line="115"/>
         <source>Add a name</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/MainPage.qml" line="150"/>
-        <location filename="../qml/pages/MainPage.qml" line="210"/>
-        <source>remove</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../qml/pages/MainPage.qml" line="176"/>
+        <location filename="../qml/pages/MainPage.qml" line="163"/>
         <source>Add at least three people.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/MainPage.qml" line="177"/>
-        <source>Add at least three people. Hold a name to remove it.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../qml/pages/MainPage.qml" line="178"/>
-        <source>%1 people. Hold a name to remove it.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../qml/pages/MainPage.qml" line="185"/>
+        <location filename="../qml/pages/MainPage.qml" line="172"/>
         <source>Not each other</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/MainPage.qml" line="191"/>
+        <location filename="../qml/pages/MainPage.qml" line="178"/>
         <source>Couples, for example. It works both ways.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/MainPage.qml" line="225"/>
+        <location filename="../qml/pages/MainPage.qml" line="28"/>
         <source>%1 and %2</source>
         <extracomment>Two people who must not draw each other: &quot;Anna and Erik&quot;</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/MainPage.qml" line="236"/>
+        <location filename="../qml/pages/MainPage.qml" line="154"/>
+        <location filename="../qml/pages/MainPage.qml" line="196"/>
+        <source>remove %1</source>
+        <extracomment>%1 is a name, or a pair such as &quot;Anna and Erik&quot;</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/MainPage.qml" line="164"/>
+        <source>Add at least three people. Tap a name to remove it.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/MainPage.qml" line="165"/>
+        <source>%1 people. Tap a name to remove it.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/MainPage.qml" line="204"/>
         <source>+ a pair</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/MainPage.qml" line="244"/>
+        <location filename="../qml/pages/MainPage.qml" line="212"/>
         <source>Pairs can be added once three names are in.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/MainPage.qml" line="252"/>
+        <location filename="../qml/pages/MainPage.qml" line="220"/>
         <source>Price limit</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/MainPage.qml" line="258"/>
+        <location filename="../qml/pages/MainPage.qml" line="226"/>
         <source>Price limit, if any</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/MainPage.qml" line="259"/>
+        <location filename="../qml/pages/MainPage.qml" line="227"/>
         <source>200 kr, for example</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/MainPage.qml" line="268"/>
+        <location filename="../qml/pages/MainPage.qml" line="236"/>
         <source>draw</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/MainPage.qml" line="295"/>
+        <location filename="../qml/pages/MainPage.qml" line="263"/>
         <source>The draw is done.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/MainPage.qml" line="306"/>
+        <location filename="../qml/pages/MainPage.qml" line="274"/>
         <source>%1 people are in the draw. Nobody has looked yet.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/MainPage.qml" line="308"/>
+        <location filename="../qml/pages/MainPage.qml" line="276"/>
         <source>Everyone has looked on this phone.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/MainPage.qml" line="309"/>
+        <location filename="../qml/pages/MainPage.qml" line="277"/>
         <source>%1 of %2 have looked on this phone.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/MainPage.qml" line="318"/>
+        <location filename="../qml/pages/MainPage.qml" line="286"/>
         <source>How will everyone see who they got?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/MainPage.qml" line="323"/>
+        <location filename="../qml/pages/MainPage.qml" line="291"/>
         <source>pass the phone</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/MainPage.qml" line="323"/>
+        <location filename="../qml/pages/MainPage.qml" line="291"/>
         <source>Everyone looks in turn, on this phone.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/MainPage.qml" line="324"/>
+        <location filename="../qml/pages/MainPage.qml" line="292"/>
         <source>send codes</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/MainPage.qml" line="324"/>
+        <location filename="../qml/pages/MainPage.qml" line="292"/>
         <source>Everyone gets a message with a code to open on their own phone.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/MainPage.qml" line="363"/>
+        <location filename="../qml/pages/MainPage.qml" line="331"/>
         <source>Price limit: %1</source>
         <translation type="unfinished"></translation>
     </message>
@@ -479,8 +484,8 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/PassPage.qml" line="66"/>
-        <source>has looked</source>
+        <location filename="../qml/pages/PassPage.qml" line="59"/>
+        <source>Names in grey have already looked.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -542,26 +547,25 @@
 <context>
     <name>Santa</name>
     <message>
-        <location filename="../qml/Santa.qml" line="94"/>
+        <location filename="../qml/Santa.qml" line="96"/>
         <source>%1 is already there. Add a surname or an initial.</source>
         <extracomment>%1 is a name already on the list</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/Santa.qml" line="174"/>
+        <location filename="../qml/Santa.qml" line="169"/>
         <source>Hi %1! You are in the family&apos;s Secret Santa.</source>
         <extracomment>The first line of the message sent to each person. %1 is their name.</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/Santa.qml" line="177"/>
-        <source>Open %1 and paste your code:</source>
-        <extracomment>%1 is the link to the web version</extracomment>
+        <location filename="../qml/Santa.qml" line="170"/>
+        <source>Open the link to see who you give a present to:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/Santa.qml" line="178"/>
-        <source>Open fiat santa, choose “I have a code” and paste this:</source>
+        <location filename="../qml/Santa.qml" line="186"/>
+        <source>Secret Santa</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

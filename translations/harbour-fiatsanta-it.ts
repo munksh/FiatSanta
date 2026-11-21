@@ -15,8 +15,8 @@
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="45"/>
-        <source>fiat santa draws the family's Secret Santa: who gives a present to whom, with the pairs who must not draw each other kept apart both ways. Where it can, the draw makes one ring through everyone, so nobody draws the person who drew them. Then everyone looks in turn on this phone, or gets a message with a code of their own to open elsewhere.</source>
-        <translation>fiat santa estrae il Babbo Natale segreto di famiglia: chi fa il regalo a chi, tenendo separate in entrambi i sensi le coppie che non devono pescarsi. Quando può, l'estrazione forma un unico cerchio che passa per tutti, così nessuno pesca chi ha pescato lui. Poi ognuno guarda a turno su questo telefono, oppure riceve un messaggio con un codice tutto suo da aprire altrove.</translation>
+        <source>fiat santa draws the family&apos;s Secret Santa: who gives a present to whom, with the pairs who must not draw each other kept apart both ways. Where it can, the draw makes one ring through everyone, so nobody draws the person who drew them. Then everyone looks in turn on this phone, or gets a message with a code of their own to open elsewhere.</source>
+        <translation>fiat santa estrae il Babbo Natale segreto di famiglia: chi fa il regalo a chi, tenendo separate in entrambi i sensi le coppie che non devono pescarsi. Quando può, l&apos;estrazione forma un unico cerchio che passa per tutti, così nessuno pesca chi ha pescato lui. Poi ognuno guarda a turno su questo telefono, oppure riceve un messaggio con un codice tutto suo da aprire altrove.</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="55"/>
@@ -26,7 +26,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="65"/>
         <source>&lt;b&gt;santa&lt;/b&gt; — the one name in the family that is not Latin, though it is a letter short of it: &lt;i&gt;sancta&lt;/i&gt;, holy. &lt;i&gt;Sanctus Nicolaus&lt;/i&gt;, the bishop of Myra, became Sinterklaas in Dutch and Santa Claus in New York.</source>
-        <translation>&lt;b&gt;santa&lt;/b&gt; — l'unico nome della famiglia che non è latino, anche se gli manca solo una lettera: &lt;i&gt;sancta&lt;/i&gt;, santa. &lt;i&gt;Sanctus Nicolaus&lt;/i&gt;, il vescovo di Mira, è diventato Sinterklaas in olandese e Santa Claus a New York.</translation>
+        <translation>&lt;b&gt;santa&lt;/b&gt; — l&apos;unico nome della famiglia che non è latino, anche se gli manca solo una lettera: &lt;i&gt;sancta&lt;/i&gt;, santa. &lt;i&gt;Sanctus Nicolaus&lt;/i&gt;, il vescovo di Mira, è diventato Sinterklaas in olandese e Santa Claus a New York.</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="98"/>
@@ -45,13 +45,13 @@
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="126"/>
-        <source>The names, the pairs, the price limit and the draw are kept on the phone, in the app's own storage, until you draw again. Nothing leaves the phone except the messages you send yourself.</source>
-        <translation>I nomi, le coppie, il budget e l'estrazione restano sul telefono, nella memoria dell'app, finché non estrai di nuovo. Dal telefono non esce niente, tranne i messaggi che invii tu.</translation>
+        <source>The names, the pairs, the price limit and the draw are kept on the phone, in the app&apos;s own storage, until you draw again. Nothing leaves the phone except the messages you send yourself.</source>
+        <translation>I nomi, le coppie, il budget e l&apos;estrazione restano sul telefono, nella memoria dell&apos;app, finché non estrai di nuovo. Dal telefono non esce niente, tranne i messaggi che invii tu.</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="134"/>
         <source>A code holds the giver, the receiver and the price limit, scrambled so a name is not read at a glance. It is not encryption: whoever has a code and really wants to can read it.</source>
-        <translation>Un codice contiene chi regala, chi riceve e il budget, rimescolati perché un nome non si legga a colpo d'occhio. Non è cifratura: chi ha un codice e lo vuole davvero può leggerlo.</translation>
+        <translation>Un codice contiene chi regala, chi riceve e il budget, rimescolati perché un nome non si legga a colpo d&apos;occhio. Non è cifratura: chi ha un codice e lo vuole davvero può leggerlo.</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="142"/>
@@ -121,12 +121,12 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="220"/>
         <source>let there be habit — a habit tracker</source>
-        <translation>sia l'abitudine — un tracker di abitudini</translation>
+        <translation>sia l&apos;abitudine — un tracker di abitudini</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="221"/>
         <source>let there be image — a raw editor</source>
-        <translation>sia l'immagine — un editor raw</translation>
+        <translation>sia l&apos;immagine — un editor raw</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="222"/>
@@ -236,7 +236,7 @@
     </message>
     <message>
         <location filename="../qml/pages/CodesPage.qml" line="116"/>
-        <source>The codes are hidden from the eye, not encrypted. Anyone who really wants to can read someone else's, so send each one only to its person.</source>
+        <source>The codes are hidden from the eye, not encrypted. Anyone who really wants to can read someone else&apos;s, so send each one only to its person.</source>
         <translation>I codici sono nascosti alla vista, non cifrati. Chi vuole davvero può leggere quello di un altro, quindi manda ciascuno solo alla sua persona.</translation>
     </message>
 </context>
@@ -255,6 +255,7 @@
     <message>
         <location filename="../qml/cover/CoverPage.qml" line="55"/>
         <source>drawn · %1 looked</source>
+        <extracomment>Cover: &quot;drawn · 3 looked&quot;</extracomment>
         <translation>estratto · %1 hanno guardato</translation>
     </message>
     <message>
@@ -281,12 +282,13 @@
     <message>
         <location filename="../qml/pages/MainPage.qml" line="28"/>
         <source>%1 and %2</source>
+        <extracomment>Two people who must not draw each other: &quot;Anna and Erik&quot;</extracomment>
         <translation>%1 e %2</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="41"/>
         <source>These pairs leave no possible draw. Remove a pair and try again.</source>
-        <translation>Con queste coppie l'estrazione è impossibile. Togli una coppia e riprova.</translation>
+        <translation>Con queste coppie l&apos;estrazione è impossibile. Togli una coppia e riprova.</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="58"/>
@@ -301,7 +303,7 @@
     <message>
         <location filename="../qml/pages/MainPage.qml" line="63"/>
         <source>Follow ambience</source>
-        <translation>Segui l'ambiente</translation>
+        <translation>Segui l&apos;ambiente</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="68"/>
@@ -311,12 +313,12 @@
     <message>
         <location filename="../qml/pages/MainPage.qml" line="74"/>
         <source>Change names and draw again</source>
-        <translation>Cambia i nomi e rifai l'estrazione</translation>
+        <translation>Cambia i nomi e rifai l&apos;estrazione</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="76"/>
         <source>Clearing the draw</source>
-        <translation>Cancello l'estrazione</translation>
+        <translation>Cancello l&apos;estrazione</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="109"/>
@@ -335,7 +337,9 @@
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="154"/>
+        <location filename="../qml/pages/MainPage.qml" line="196"/>
         <source>remove %1</source>
+        <extracomment>%1 is a name, or a pair such as &quot;Anna and Erik&quot;</extracomment>
         <translation>togli %1</translation>
     </message>
     <message>
@@ -381,7 +385,7 @@
     <message>
         <location filename="../qml/pages/MainPage.qml" line="226"/>
         <source>Price limit, if any</source>
-        <translation>Budget, se c'è</translation>
+        <translation>Budget, se c&apos;è</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="227"/>
@@ -396,12 +400,12 @@
     <message>
         <location filename="../qml/pages/MainPage.qml" line="263"/>
         <source>The draw is done.</source>
-        <translation>L'estrazione è fatta.</translation>
+        <translation>L&apos;estrazione è fatta.</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="274"/>
         <source>%1 people are in the draw. Nobody has looked yet.</source>
-        <translation>Ci sono %1 persone nell'estrazione. Nessuno ha ancora guardato.</translation>
+        <translation>Ci sono %1 persone nell&apos;estrazione. Nessuno ha ancora guardato.</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="276"/>
@@ -495,6 +499,7 @@
     <message>
         <location filename="../qml/pages/RevealPage.qml" line="72"/>
         <source>Are you %1?</source>
+        <extracomment>%1 is the name the person tapped</extracomment>
         <translation>Sei %1?</translation>
     </message>
     <message>
@@ -515,6 +520,7 @@
     <message>
         <location filename="../qml/pages/RevealPage.qml" line="131"/>
         <source>%1, you give a present to</source>
+        <extracomment>Above the name on the card. %1 is the giver.</extracomment>
         <translation>%1, fai il regalo a</translation>
     </message>
     <message>
@@ -543,11 +549,13 @@
     <message>
         <location filename="../qml/Santa.qml" line="96"/>
         <source>%1 is already there. Add a surname or an initial.</source>
-        <translation>%1 c'è già. Aggiungi un cognome o un'iniziale.</translation>
+        <extracomment>%1 is a name already on the list</extracomment>
+        <translation>%1 c&apos;è già. Aggiungi un cognome o un&apos;iniziale.</translation>
     </message>
     <message>
         <location filename="../qml/Santa.qml" line="169"/>
-        <source>Hi %1! You are in the family's Secret Santa.</source>
+        <source>Hi %1! You are in the family&apos;s Secret Santa.</source>
+        <extracomment>The first line of the message sent to each person. %1 is their name.</extracomment>
         <translation>Ciao %1! Partecipi al Babbo Natale segreto di famiglia.</translation>
     </message>
     <message>

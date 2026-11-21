@@ -15,7 +15,7 @@
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="45"/>
-        <source>fiat santa draws the family's Secret Santa: who gives a present to whom, with the pairs who must not draw each other kept apart both ways. Where it can, the draw makes one ring through everyone, so nobody draws the person who drew them. Then everyone looks in turn on this phone, or gets a message with a code of their own to open elsewhere.</source>
+        <source>fiat santa draws the family&apos;s Secret Santa: who gives a present to whom, with the pairs who must not draw each other kept apart both ways. Where it can, the draw makes one ring through everyone, so nobody draws the person who drew them. Then everyone looks in turn on this phone, or gets a message with a code of their own to open elsewhere.</source>
         <translation>fiat santa 为家人抽取神秘圣诞老人：谁给谁送礼物，并让不能互相抽到的两人在两个方向上都分开。只要可能，抽签会把所有人连成一个圈，这样谁也不会抽到抽中自己的人。之后，大家可以在这部手机上轮流查看，也可以各自收到一条带专属代码的消息，在别处打开。</translation>
     </message>
     <message>
@@ -45,7 +45,7 @@
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="126"/>
-        <source>The names, the pairs, the price limit and the draw are kept on the phone, in the app's own storage, until you draw again. Nothing leaves the phone except the messages you send yourself.</source>
+        <source>The names, the pairs, the price limit and the draw are kept on the phone, in the app&apos;s own storage, until you draw again. Nothing leaves the phone except the messages you send yourself.</source>
         <translation>名字、组合、预算和抽签结果都保存在手机上，存放在应用自己的存储里，直到你重新抽签。除了你亲自发送的消息，什么都不会离开手机。</translation>
     </message>
     <message>
@@ -236,7 +236,7 @@
     </message>
     <message>
         <location filename="../qml/pages/CodesPage.qml" line="116"/>
-        <source>The codes are hidden from the eye, not encrypted. Anyone who really wants to can read someone else's, so send each one only to its person.</source>
+        <source>The codes are hidden from the eye, not encrypted. Anyone who really wants to can read someone else&apos;s, so send each one only to its person.</source>
         <translation>这些代码只是让人一眼看不出来，并没有加密。真想看的人能读出别人的代码，所以每条只发给对应的人。</translation>
     </message>
 </context>
@@ -255,6 +255,7 @@
     <message>
         <location filename="../qml/cover/CoverPage.qml" line="55"/>
         <source>drawn · %1 looked</source>
+        <extracomment>Cover: &quot;drawn · 3 looked&quot;</extracomment>
         <translation>已抽签 · %1 人已看</translation>
     </message>
     <message>
@@ -281,6 +282,7 @@
     <message>
         <location filename="../qml/pages/MainPage.qml" line="28"/>
         <source>%1 and %2</source>
+        <extracomment>Two people who must not draw each other: &quot;Anna and Erik&quot;</extracomment>
         <translation>%1 和 %2</translation>
     </message>
     <message>
@@ -335,7 +337,9 @@
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="154"/>
+        <location filename="../qml/pages/MainPage.qml" line="196"/>
         <source>remove %1</source>
+        <extracomment>%1 is a name, or a pair such as &quot;Anna and Erik&quot;</extracomment>
         <translation>移除 %1</translation>
     </message>
     <message>
@@ -495,6 +499,7 @@
     <message>
         <location filename="../qml/pages/RevealPage.qml" line="72"/>
         <source>Are you %1?</source>
+        <extracomment>%1 is the name the person tapped</extracomment>
         <translation>你是%1吗？</translation>
     </message>
     <message>
@@ -515,6 +520,7 @@
     <message>
         <location filename="../qml/pages/RevealPage.qml" line="131"/>
         <source>%1, you give a present to</source>
+        <extracomment>Above the name on the card. %1 is the giver.</extracomment>
         <translation>%1，你要送礼物给</translation>
     </message>
     <message>
@@ -543,11 +549,13 @@
     <message>
         <location filename="../qml/Santa.qml" line="96"/>
         <source>%1 is already there. Add a surname or an initial.</source>
+        <extracomment>%1 is a name already on the list</extracomment>
         <translation>%1 已经在名单里了。请加上姓氏或首字母。</translation>
     </message>
     <message>
         <location filename="../qml/Santa.qml" line="169"/>
-        <source>Hi %1! You are in the family's Secret Santa.</source>
+        <source>Hi %1! You are in the family&apos;s Secret Santa.</source>
+        <extracomment>The first line of the message sent to each person. %1 is their name.</extracomment>
         <translation>%1，你好！你参加了家里的神秘圣诞老人活动。</translation>
     </message>
     <message>
