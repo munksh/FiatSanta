@@ -1,0 +1,2 @@
+singleton FiatSantaTheme 1.0 FiatSantaTheme.qml
+singleton Santa 1.0 Santa.qml

@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=silica-qt5
+Icon=harbour-fiatsanta
+Exec=harbour-fiatsanta
+Name=fiat santa
+Comment=The family's Secret Santa: draw, then look in turn or send codes
+Comment[sv]=Familjens julklappslottning: lotta, titta en i taget eller skicka koder
+Comment[de]=Das Wichteln der Familie: auslosen, reihum nachsehen oder Codes verschicken
+Comment[ru]=Тайный Санта для всей семьи: жеребьёвка, потом смотрим по очереди или рассылаем коды
+Comment[fr]=Le Père Noël secret de la famille : tirer au sort, regarder à tour de rôle ou envoyer des codes
+Comment[es]=El amigo invisible de la familia: sortear, mirar por turnos o enviar códigos
+Comment[pt]=O amigo secreto da família: sortear, olhar na vez de cada um ou enviar códigos
+Comment[it]=Il Babbo Natale segreto di famiglia: estrai, guarda a turno o invia i codici
+Comment[zh]=家庭神秘圣诞老人：抽签，轮流查看或发送代码
+Comment[ja]=家族のシークレットサンタ：抽選して、順番に見るかコードを送る
+
+[X-Sailjail]
+OrganizationName=se.munkstolen
+ApplicationName=harbour-fiatsanta
